@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cameras
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Wall
+  - Item
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1493896071
+    locked: 0
+  - name: Wall
+    uniqueID: 3593239737
+    locked: 0
+  - name: Item
+    uniqueID: 3279380195
+    locked: 0
+  - name: Player
+    uniqueID: 2367404391
+    locked: 0
+  - name: UI
+    uniqueID: 1246364047
+    locked: 0
